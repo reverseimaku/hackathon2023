@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Lila",
+        "image": "../assets/images/lila.png",
+        "notes": [
+            {
+                "Object 1": {
+                    "Title": "Arc 1",
+                    "Notes": {
+                        "Note 1": "Description arc 1",
+                        "Note 2": "Note 2 desc"
+                    }
+                }
+            },
+
+            {
+                "Object 2": {
+                    "Title": "Arc 2",
+                    "Notes": {
+                        "Note 1": "Description arc 2",
+                        "Note 2": "Note 2 desc"
+                    }
+                }
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "name": "Quinn",
+        "image": "../assets/images/quinn.png",
+        "notes": [
+            {
+                "Object 1": {
+                    "Title": "Arc 1",
+                    "Notes": {
+                        "Note 1": "Notes here for Quinn's personality",
+                        "Note 2": "Another note here"
+                    }
+                }
+            },
+
+            {
+                "Object 2": {
+                    "Title": "Arc 2",
+                    "Notes": {
+                        "Note 1": "Description arc 2",
+                        "Note 2": "Note 2 desc"
+                    }
+                }
+            }
+        ]
+    }
+
+]
